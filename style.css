@@ -10,6 +10,8 @@ body{
     border-collapse: separate;
     border-spacing: 2px;
     border-color: gray;
+    font-family: verdana,helvetica,arial,sans-serif;
+    font-size: 100%;
 }
 
 /* Top row */
@@ -26,7 +28,7 @@ body{
 /* White line */
 
 #white {
-    border: 1px solid #d4d4d4;
+    border: 1px solid grey;
     padding: 5px;
     padding-top: 7px;
     padding-bottom: 7px;
@@ -36,7 +38,7 @@ body{
 /* Grey line */
 
 #grey {
-    border: 1px solid #d4d4d4;
+    border: 1px solid grey;
     padding: 5px;
     padding-top: 7px;
     padding-bottom: 7px;
